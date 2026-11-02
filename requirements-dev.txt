@@ -35,7 +35,7 @@ toml==0.10.2
 tox==3.24.4
 tox-pip-extensions==1.6.0
 typed-ast==1.4.3
-typing-extensions==3.10.0.2
+typing-extensions==4.16.0
 unidiff==0.7.3
 urllib3==1.26.9
 virtualenv==20.6.0
